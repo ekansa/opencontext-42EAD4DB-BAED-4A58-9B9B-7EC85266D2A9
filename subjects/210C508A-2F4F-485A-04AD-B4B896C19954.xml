@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="210C508A-2F4F-485A-04AD-B4B896C19954" ownedBy="42EAD4DB-BAED-4A58-9B9B-7EC85266D2A9">
+  <arch:name>
+    <arch:string>Lot 679</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Lot</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_24_233495e23</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>7AF92587-B578-4936-8742-3B045133C0FE</arch:variableID>
+          <arch:valueID>DA7525AE-FAC9-4D5A-2A64-1572074F257D</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/D4887727-4A35-4672-4351-1F80032DAA50">D4887727-4A35-4672-4351-1F80032DAA50</oc:propid>
+          <oc:var_label type="nominal">Phase</oc:var_label>
+          <oc:show_val>Middle (Layer 2)</oc:show_val>
+        </arch:property>
+      </arch:properties>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/1_Global_Spatial">
+        <oc:name>Turkey</oc:name>
+        <oc:id>1_Global_Spatial</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/AF6F6BD2-6387-4FBB-74D4-FD054C08EF79">
+        <oc:name>Menteşe Höyük</oc:name>
+        <oc:id>AF6F6BD2-6387-4FBB-74D4-FD054C08EF79</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/6D76336A-96A7-49D0-C0D2-4C3752D45298">
+        <oc:name>Bone 2718</oc:name>
+        <oc:id>6D76336A-96A7-49D0-C0D2-4C3752D45298</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/21D9DB0A-75C3-4266-9CB6-646C4BF5B7D7">
+        <oc:name>Bone 2719</oc:name>
+        <oc:id>21D9DB0A-75C3-4266-9CB6-646C4BF5B7D7</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/60750B3C-E723-4716-848A-5D61908344D8">
+        <oc:name>Bone 2720</oc:name>
+        <oc:id>60750B3C-E723-4716-848A-5D61908344D8</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/909315EA-0DBC-40C8-81C9-37F0625FF223">
+        <oc:name>Bone 2721</oc:name>
+        <oc:id>909315EA-0DBC-40C8-81C9-37F0625FF223</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D68FC7C9-5241-4348-606F-95D5E3337D41">
+        <oc:name>Bone No-ID-04</oc:name>
+        <oc:id>D68FC7C9-5241-4348-606F-95D5E3337D41</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C953253A-E1A8-4DA7-0678-942281875B6D">
+        <oc:name>Bone No-ID-04-2</oc:name>
+        <oc:id>C953253A-E1A8-4DA7-0678-942281875B6D</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/2E5345B8-A5E7-4F53-B8DC-9A58DEE39FA8">
+        <oc:name>Bone No-ID-65</oc:name>
+        <oc:id>2E5345B8-A5E7-4F53-B8DC-9A58DEE39FA8</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F6254F82-71C2-435B-139A-4F864874B4F5">
+        <oc:name>Bone No-ID-66</oc:name>
+        <oc:id>F6254F82-71C2-435B-139A-4F864874B4F5</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4AC62AB7-17AD-4CCE-DFBB-524C267B8555">
+        <oc:name>Bone No-ID-83</oc:name>
+        <oc:id>4AC62AB7-17AD-4CCE-DFBB-524C267B8555</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>Faunal Data from Neolithic Menteşe: Lot 679 (Lot)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2014-05-12</dc:date>
+    <dc:subject>Animal Economy, Menteşe Höyük, Western Anatolia</dc:subject>
+    <dc:subject>Faunal data</dc:subject>
+    <dc:subject>Mammal Remains</dc:subject>
+    <dc:subject>Neolithic</dc:subject>
+    <dc:subject>Turkey</dc:subject>
+    <dc:subject>Western Anatolia</dc:subject>
+    <dc:subject>Zooarchaeology</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/36F86B2B-C13E-47C1-5F86-16A346F93A7E">Daniel Helmer</dc:creator>
+    <dc:creator href="http://opencontext.org/persons/6D6D8F4C-BDA7-404B-71DD-7E461F0227A1">Lionel Gourichon</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/210C508A-2F4F-485A-04AD-B4B896C19954</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/42EAD4DB-BAED-4A58-9B9B-7EC85266D2A9">Faunal Data from Neolithic Menteşe</oc:project_name>
+    <oc:pub_date>2014-05-12T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Faunal+Data+from+Neolithic+Mente%C5%9Fe%3A+Lot+679+%28Lot%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Animal+Economy%2C+Mente%C5%9Fe+H%C3%B6y%C3%BCk%2C+Western+Anatolia&amp;rft.subject=Faunal+data&amp;rft.subject=Mammal+Remains&amp;rft.subject=Neolithic&amp;rft.subject=Turkey&amp;rft.subject=Western+Anatolia&amp;rft.subject=Zooarchaeology&amp;rft.creator=Daniel+Helmer&amp;rft.creator=Lionel+Gourichon&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F210C508A-2F4F-485A-04AD-B4B896C19954</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>40.276645</oc:geo_lat>
+      <oc:geo_long>29.523892</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/AF6F6BD2-6387-4FBB-74D4-FD054C08EF79">
+        <oc:source_name>Menteşe Höyük</oc:source_name>
+        <oc:source_id>AF6F6BD2-6387-4FBB-74D4-FD054C08EF79</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2014-05-14T05:06:24-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2014/05/14 05:06:24</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(6,200 BCE - 5,800 BCE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-6200</oc:time_start>
+          <oc:time_finish>-5800</oc:time_finish>
+          <oc:metasource ref_type="self" href="http://opencontext.org/subjects/210C508A-2F4F-485A-04AD-B4B896C19954">
+            <oc:source_name>Lot 679</oc:source_name>
+            <oc:source_id>210C508A-2F4F-485A-04AD-B4B896C19954</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2014-05-13T19:22:31-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

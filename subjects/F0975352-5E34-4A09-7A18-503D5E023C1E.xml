@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="F0975352-5E34-4A09-7A18-503D5E023C1E" ownedBy="42EAD4DB-BAED-4A58-9B9B-7EC85266D2A9">
+  <arch:name>
+    <arch:string>Bone 595</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Animal Bone</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_24_233495e23</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>A014487F-26F5-4AB6-AC8A-E275E6DA621B</arch:variableID>
+          <arch:valueID>20F77FC0-A486-46E7-36EE-D4A1A9E11176</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/7567592C-AC2C-4802-733B-6A7D4D44DE1D">7567592C-AC2C-4802-733B-6A7D4D44DE1D</oc:propid>
+          <oc:var_label type="nominal">Taxon</oc:var_label>
+          <oc:show_val>Ovis/Capra</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="A014487F-26F5-4AB6-AC8A-E275E6DA621B" href="http://purl.org/NET/biol/ns#term_hasTaxonomy">
+              <oc:vocabulary href="http://purl.org/NET/biol/ns#">Biological Taxonomy Vocabulary</oc:vocabulary>
+              <oc:label>Has Biological Taxonomy</oc:label>
+              <oc:targetLink localType="property" localID="7567592C-AC2C-4802-733B-6A7D4D44DE1D" localURI="http://opencontext.org/properties/7567592C-AC2C-4802-733B-6A7D4D44DE1D" href="http://eol.org/pages/32609438">
+                <oc:vocabulary href="http://eol.org/">Encyclopedia of Life</oc:vocabulary>
+                <oc:label>Sheep/goat</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>1D538BDD-E143-408F-7BC9-EEE5C717CCEB</arch:variableID>
+          <arch:valueID>BCB178B4-D1DF-4A23-0DD1-1979D1841F2A</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/D55F6705-C5D2-487A-6399-FEB413A02A61">D55F6705-C5D2-487A-6399-FEB413A02A61</oc:propid>
+          <oc:var_label type="nominal">Element</oc:var_label>
+          <oc:show_val>Maxilla</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="1D538BDD-E143-408F-7BC9-EEE5C717CCEB" href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0079">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
+              <oc:label>Has anatomical identification</oc:label>
+              <oc:targetLink localType="property" localID="D55F6705-C5D2-487A-6399-FEB413A02A61" localURI="http://opencontext.org/properties/D55F6705-C5D2-487A-6399-FEB413A02A61" href="http://purl.obolibrary.org/obo/UBERON_0002397">
+                <oc:vocabulary href="http://uberon.org">UBERON (Uber Anatomy Ontology)</oc:vocabulary>
+                <oc:label>maxilla</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>BDFEC976-D656-423A-A5F5-BED86B442629</arch:variableID>
+          <arch:valueID>B3DA129D-19B9-4C1A-CC1A-D6FFE018B1A4</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/33289668-5E7A-45B3-2DA6-27732D5C80A0">33289668-5E7A-45B3-2DA6-27732D5C80A0</oc:propid>
+          <oc:var_label type="calendric">Date</oc:var_label>
+          <oc:show_val>2000-07-17</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>0A095DFA-8E9E-405B-BFE0-759F8F36F99A</arch:variableID>
+          <arch:integer>2000</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/5529517E-AB88-42FE-F150-9D5459816F44">5529517E-AB88-42FE-F150-9D5459816F44</oc:propid>
+          <oc:var_label type="integer">Year</oc:var_label>
+          <oc:show_val>2000</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>7AF92587-B578-4936-8742-3B045133C0FE</arch:variableID>
+          <arch:valueID>2ECBD3AA-3817-4452-DAA4-7F1A5F3FF12A</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/66AC7696-F236-4495-71A8-6ED548799EEE">66AC7696-F236-4495-71A8-6ED548799EEE</oc:propid>
+          <oc:var_label type="nominal">Phase</oc:var_label>
+          <oc:show_val>Late (Layer 1)</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>9F7FA761-186B-4B27-A252-CDA5F5E7E2B0</arch:variableID>
+          <arch:valueID>A113D489-6D3F-4C3B-9909-43DAE6ADA6C2</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/E36FC5D9-2274-4786-F1CA-D3AB4EC1A39F">E36FC5D9-2274-4786-F1CA-D3AB4EC1A39F</oc:propid>
+          <oc:var_label type="nominal">Contemporary With</oc:var_label>
+          <oc:show_val>Ilipinar VA</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>3984173A-24C7-4CFE-3ED5-40A061321DC8</arch:variableID>
+          <arch:valueID>1A8FAE6D-9277-4B44-435F-A94A5327CF05</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/C133233E-2BBC-45F5-0887-8D9161FDCBFF">C133233E-2BBC-45F5-0887-8D9161FDCBFF</oc:propid>
+          <oc:var_label type="nominal">Author</oc:var_label>
+          <oc:show_val>Lionel Gourichon</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>F7975BD5-5448-4349-0299-0F56B61A5B15</arch:variableID>
+          <arch:valueID>EDC04FFD-A066-4585-9A0E-A56839E75AC2</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/ADEFEB21-256D-49E6-876A-12D46E5D0DD3">ADEFEB21-256D-49E6-876A-12D46E5D0DD3</oc:propid>
+          <oc:var_label type="nominal">Category</oc:var_label>
+          <oc:show_val>Mammal bone</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>EFAA65CA-3C9D-4ECE-375D-1CE6A2CE4FDD</arch:variableID>
+          <arch:valueID>527440DD-A0BC-48E3-5309-F16F64C3DED3</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/139139A8-932F-492C-D462-AF563EE83CED">139139A8-932F-492C-D462-AF563EE83CED</oc:propid>
+          <oc:var_label type="nominal">Side</oc:var_label>
+          <oc:show_val>Right</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>8B33602F-981B-4A0D-5406-9AE2F94C318D</arch:variableID>
+          <arch:valueID>014E49A2-BAA5-4437-9D81-7BBA45FD22DF</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/530E25D5-5E73-4593-A8B8-7E74F7ADAD34">530E25D5-5E73-4593-A8B8-7E74F7ADAD34</oc:propid>
+          <oc:var_label type="nominal">Series (dental Series)</oc:var_label>
+          <oc:show_val>AJ</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>5AA00DE3-FE71-4FD2-0ED0-C27CC3B34021</arch:variableID>
+          <arch:valueID>3C628D76-BF0C-4FD2-F4CA-AE7D0C8D3503</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/4DE31DBE-87D9-4C68-6EED-03084E5DBA5C">4DE31DBE-87D9-4C68-6EED-03084E5DBA5C</oc:propid>
+          <oc:var_label type="alphanumeric">Preservation Notes</oc:var_label>
+          <oc:show_val>with M3</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>1C46E306-0689-42C5-769A-6C919C6C93DB</arch:variableID>
+          <oc:annotations about="1C46E306-0689-42C5-769A-6C919C6C93DB" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="Measurement type"/>
+              <oc:targetLink href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0092" name="H" abrv="">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm"/>
+          <oc:propid href="http://opencontext.org/properties/9EF38662-E5E0-4140-5FEE-E26E3659E19C">9EF38662-E5E0-4140-5FEE-E26E3659E19C</oc:propid>
+          <oc:var_label type="decimal">H</oc:var_label>
+          <oc:show_val>31.2*</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>D3D5E81C-6548-4FCC-B4F4-782CB8E9242C</arch:variableID>
+          <oc:propid href="http://opencontext.org/properties/CEF57BD7-693F-49B7-6B90-FDA8BCD19291">CEF57BD7-693F-49B7-6B90-FDA8BCD19291</oc:propid>
+          <oc:var_label type="alphanumeric">Part Id</oc:var_label>
+          <oc:show_val>595</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>0EB609F3-715F-44BF-0180-0E8043192F04</arch:variableID>
+          <arch:decimal>104</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/7789B910-F0A8-4774-26E7-82FDA930F9B8">7789B910-F0A8-4774-26E7-82FDA930F9B8</oc:propid>
+          <oc:var_label type="decimal">Level</oc:var_label>
+          <oc:show_val>104</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>A51CCCD4-3B65-4990-1529-2E53D339F2F9</arch:variableID>
+          <arch:decimal>16</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/5539064B-90CA-4D9A-A33B-861A6234353E">5539064B-90CA-4D9A-A33B-861A6234353E</oc:propid>
+          <oc:var_label type="decimal">Locus</oc:var_label>
+          <oc:show_val>16</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>29791BEE-B174-47C0-0D97-9E57AD198D3F</arch:variableID>
+          <arch:valueID>D7A93A24-7C73-496B-182B-9DFF7438CDAA</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/07150795-9622-4861-9C7A-A78CB357741D">07150795-9622-4861-9C7A-A78CB357741D</oc:propid>
+          <oc:var_label type="nominal">Dental Series</oc:var_label>
+          <oc:show_val>Maxilla AJ</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>986B3F8E-B7B1-4890-C54D-009BD4143970</arch:variableID>
+          <arch:valueID>9B4A5297-5FF4-4E69-9F73-6388DA31AA12</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/FA948B4B-8CB4-48CF-8F32-BCA687ACBF6A">FA948B4B-8CB4-48CF-8F32-BCA687ACBF6A</oc:propid>
+          <oc:var_label type="nominal">Tooth</oc:var_label>
+          <oc:show_val>M3</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>1B4B9010-81DC-45EC-87C4-759BABA8847A</arch:variableID>
+          <arch:valueID>2C80987D-EBB1-469D-DE7E-429ED53C1ABA</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/30BD8AA5-FB86-49BF-2903-4278919818E3">30BD8AA5-FB86-49BF-2903-4278919818E3</oc:propid>
+          <oc:var_label type="nominal">Maxilla</oc:var_label>
+          <oc:show_val>Upper</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>8CBE0E9E-80B9-49D7-6469-9B75CE74BF58</arch:variableID>
+          <arch:valueID>F27C14BD-BCD5-4829-A2F9-C59C784CC754</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/3F3C35B0-8842-466A-033E-7DA648C20791">3F3C35B0-8842-466A-033E-7DA648C20791</oc:propid>
+          <oc:var_label type="nominal">Payne Code</oc:var_label>
+          <oc:show_val>9A</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>6FA8AB6D-A983-4315-00A8-2F5A8B5B18DD</arch:variableID>
+          <oc:propid href="http://opencontext.org/properties/AA1BF432-B136-4471-5389-8A16A0CFBB12">AA1BF432-B136-4471-5389-8A16A0CFBB12</oc:propid>
+          <oc:var_label type="nominal">Left</oc:var_label>
+          <oc:show_val>16.4</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>7424CCEF-716B-4443-78C2-6337F6F2FABE</arch:variableID>
+          <arch:decimal>11.8</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/7979CF14-66EB-4081-C481-041B619DF40F">7979CF14-66EB-4081-C481-041B619DF40F</oc:propid>
+          <oc:var_label type="decimal">Dtb</oc:var_label>
+          <oc:show_val>11.8</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>52F9EFED-84CF-43C7-CEFD-DBA51117614E</arch:variableID>
+          <arch:decimal>2.6</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/61EE6EAE-7AB5-4CAF-7BCD-72FCDEC87A74">61EE6EAE-7AB5-4CAF-7BCD-72FCDEC87A74</oc:propid>
+          <oc:var_label type="decimal">Ducos Index</oc:var_label>
+          <oc:show_val>2.6</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>34854C4B-3097-4936-4D5A-1CEEA2D76EC0</arch:variableID>
+          <arch:valueID>5B2C809C-8986-456A-4D86-6B7057B6CEB5</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/DE4884E8-711A-4267-FAE2-56E19F02B8F0">DE4884E8-711A-4267-FAE2-56E19F02B8F0</oc:propid>
+          <oc:var_label type="alphanumeric">Age Class</oc:var_label>
+          <oc:show_val>G</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>5326D814-B8BC-49C2-9643-326AC552277C</arch:variableID>
+          <arch:valueID>800E2312-74B7-4127-CB45-D4BB93065CC1</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/DE1E9AE0-B00A-47C3-CFCA-F7BBD6DBDF0C">DE1E9AE0-B00A-47C3-CFCA-F7BBD6DBDF0C</oc:propid>
+          <oc:var_label type="nominal">Age (years)</oc:var_label>
+          <oc:show_val>4-6 years</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>2AD93833-9EBA-4708-48A6-6A3DCEA000EA</arch:variableID>
+          <arch:valueID>1A8FAE6D-9277-4B44-435F-A94A5327CF05</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/5EC819D2-E481-4481-8901-5CFEB3B77F24">5EC819D2-E481-4481-8901-5CFEB3B77F24</oc:propid>
+          <oc:var_label type="nominal">Study</oc:var_label>
+          <oc:show_val>Lionel Gourichon</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:notes>
+        <arch:note>
+          <arch:string type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">Most bone identifiers originated from the source data. In some cases, Open Context editors assigned bone identifiers for records missing IDs. These cases are noted with the prefix "No-ID-".  </div>
+          </arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/1_Global_Spatial">
+        <oc:name>Turkey</oc:name>
+        <oc:id>1_Global_Spatial</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/AF6F6BD2-6387-4FBB-74D4-FD054C08EF79">
+        <oc:name>Menteşe Höyük</oc:name>
+        <oc:id>AF6F6BD2-6387-4FBB-74D4-FD054C08EF79</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/B4942CE1-9AB8-41F4-AEB2-762E155B6432">
+        <oc:name>Lot 624</oc:name>
+        <oc:id>B4942CE1-9AB8-41F4-AEB2-762E155B6432</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Lot</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Faunal Data from Neolithic Menteşe: Bone 595 (Animal Bone)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2014-05-12</dc:date>
+    <dc:subject>Animal Economy, Menteşe Höyük, Western Anatolia</dc:subject>
+    <dc:subject>Faunal data</dc:subject>
+    <dc:subject>Mammal Remains</dc:subject>
+    <dc:subject>Neolithic</dc:subject>
+    <dc:subject>Turkey</dc:subject>
+    <dc:subject>Western Anatolia</dc:subject>
+    <dc:subject>Zooarchaeology</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/36F86B2B-C13E-47C1-5F86-16A346F93A7E">Daniel Helmer</dc:creator>
+    <dc:creator href="http://opencontext.org/persons/6D6D8F4C-BDA7-404B-71DD-7E461F0227A1">Lionel Gourichon</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/F0975352-5E34-4A09-7A18-503D5E023C1E</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/42EAD4DB-BAED-4A58-9B9B-7EC85266D2A9">Faunal Data from Neolithic Menteşe</oc:project_name>
+    <oc:pub_date>2014-05-12T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Faunal+Data+from+Neolithic+Mente%C5%9Fe%3A+Bone+595+%28Animal+Bone%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Animal+Economy%2C+Mente%C5%9Fe+H%C3%B6y%C3%BCk%2C+Western+Anatolia&amp;rft.subject=Faunal+data&amp;rft.subject=Mammal+Remains&amp;rft.subject=Neolithic&amp;rft.subject=Turkey&amp;rft.subject=Western+Anatolia&amp;rft.subject=Zooarchaeology&amp;rft.creator=Daniel+Helmer&amp;rft.creator=Lionel+Gourichon&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2FF0975352-5E34-4A09-7A18-503D5E023C1E</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>40.276645</oc:geo_lat>
+      <oc:geo_long>29.523892</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/AF6F6BD2-6387-4FBB-74D4-FD054C08EF79">
+        <oc:source_name>Menteşe Höyük</oc:source_name>
+        <oc:source_id>AF6F6BD2-6387-4FBB-74D4-FD054C08EF79</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2014-05-14T04:28:12-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2014/05/14 04:28:12</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(5,800 BCE - 5,600 BCE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-5800</oc:time_start>
+          <oc:time_finish>-5600</oc:time_finish>
+          <oc:metasource ref_type="self" href="http://opencontext.org/subjects/F0975352-5E34-4A09-7A18-503D5E023C1E">
+            <oc:source_name>Bone 595</oc:source_name>
+            <oc:source_id>F0975352-5E34-4A09-7A18-503D5E023C1E</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2014-05-13T19:20:19-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

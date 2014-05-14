@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:project xmlns:arch="http://ochre.lib.uchicago.edu/schema/Project/Project.xsd" xmlns:oc="http://opencontext.org/schema/project_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="42EAD4DB-BAED-4A58-9B9B-7EC85266D2A9" ownedBy="42EAD4DB-BAED-4A58-9B9B-7EC85266D2A9">
+  <arch:name>
+    <arch:string>Faunal Data from Neolithic Menteşe</arch:string>
+  </arch:name>
+  <oc:manage_info>
+    <oc:queryVal>Faunal+Data+from+Neolithic+Mente%C5%9Fe</oc:queryVal>
+    <oc:rootPath>/Turkey</oc:rootPath>
+    <oc:spaceCount>0</oc:spaceCount>
+    <oc:mediaCount>0</oc:mediaCount>
+    <oc:diaryCount>0</oc:diaryCount>
+    <oc:projGeoPoint>40.276645 29.523892</oc:projGeoPoint>
+  </oc:manage_info>
+  <arch:links>
+    <arch:docID type="spatialUnit" info="project root">AF6F6BD2-6387-4FBB-74D4-FD054C08EF79</arch:docID>
+    <oc:space_links>
+      <oc:link href="http://opencontext.org/subjects/AF6F6BD2-6387-4FBB-74D4-FD054C08EF79">
+        <oc:name>Menteşe Höyük</oc:name>
+        <oc:id>AF6F6BD2-6387-4FBB-74D4-FD054C08EF79</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/1_Global_Spatial">
+              <oc:name>Turkey</oc:name>
+              <oc:id>1_Global_Spatial</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+    </oc:space_links>
+  </arch:links>
+  <arch:notes>
+    <arch:note type="short_des">
+      <arch:string type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">Zooarchaeology data for Neolithic Menteşe Höyük, a site in NW Anatolia</div>
+      </arch:string>
+    </arch:note>
+    <arch:note type="long_des">
+      <arch:string type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div>
+    <h4>Introduction</h4>
+    <p>The faunal sample of Menteşe comprised primary mammal bones, as well as some bird bones, and various other remains, inlcuding: spur-thighed tortoise, amphibian bones, fish elements and shells of molluscs.</p>
+
+    <p>The wild mammals (wild cat, fox, polecat, red deer, fallow deer, roe deer, wild boar, horse and hare) are only represented in low numbers. The major part of the mammal assemblages are composed of domestic animals: cattle, sheep, goats and some pigs. The dog is also present. The avifauna is mainly constituted by waterfowl or birds species related to wetlands (ducks, geese, common crane and moorhen).</p>
+
+    <p>The purposes of the cattle herding were the exploitation for milk, meat and labour force. For the caprines, the flock management focused on milk and tender meat. The statistical study (correspondence analysis) of the different occupation levels of Menteşe shows that cattle herding was predominant in the oldest levels (130 to 122) and that sheep herding became more significant in the upper levels. Moreover, the results clearly indicate that part of the taxa frequencies are identical at Fikirtepe and within the levels 130 to 122 of Menteşe and levels 121 to 100 are similar to Ilıpınar X and IX. At Menteşe, the transition from an economy based on cattle herding to a caprine-based economy could be explained by an overexploitation of the surrounding environment and a probable increase of the village population.</p>
+
+    <h5>Phasing (from Roodenberg et al. 2003):</h5>
+    <table>
+        <thead>
+            <tr><th>Phase</th><th>Levels</th><th>Contemporaneous to</th></tr>
+        </thead>
+        <tbody>
+            <tr><td>Late (Layer 1)</td><td>100 to 109</td><td>Ilıpınar VA</td></tr>
+            <tr><td>Middle (Layer 2)</td><td>110 to 125</td><td> </td></tr>
+            <tr><td>Early (Layer 3)</td><td>126 to 130</td><td>Fikirtepe</td></tr>
+        </tbody>
+    </table>
+    <br/>
+    <br/>
+    <h4>Bibliography</h4>
+        <div resource="http://opencontext.org/subjects/AF6F6BD2-6387-4FBB-74D4-FD054C08EF79">    
+            
+            <div id="pub-2003-1" rel="dcterms:isReferencedBy" class="biblio-item">
+                <a style="display:none;" href="#pub-2003-1"/>
+                <div typeof="dcterms:BibliographicResource bibo:Journal" resource="#pub-2003-1">
+                    <div property="dcterms:bibliographicCitation">
+                        <p class="authors">Roodenberg, J., Van As, A., Jacobs, L., and Wijnen, M.</p>
+                        <div>
+                            <div class="pub-date">2003</div>
+                            <div class="ref-title-pub"> Early settlement in the Plain of Yenişehir (NW Anatolia). The basal occupation layers at Menteşe. <span class="collection-title">Anatolica</span> 29: 17-59.</div>
+                            <div class="ref-end"/>
+                        </div>
+                    </div>
+                    <div class="ref-links">
+                        [<a rel="bibo:uri" href="http://poj.peeters-leuven.be/content.php?url=article&amp;id=2015511">Article</a>]
+                        [<a rel="dcterms:identifier" href="http://dx.doi.org/10.2143/ANA.29.0.2015511">DOI</a>]
+                    </div>
+                </div>
+            </div>
+            
+            <div id="pub-2008-1" rel="dcterms:isReferencedBy" class="biblio-item">
+                <a style="display:none;" href="#pub-2008-1"/>
+                <div typeof="dcterms:BibliographicResource bibo:BookSection" resource="#pub-2008-1">
+                    <div property="dcterms:bibliographicCitation">
+                        <p class="authors">Gourichon, L. and Helmer, D</p>
+                        <div>
+                            <div class="pub-date">2008</div>
+                            <div class="ref-title-pub">Étude de la faune Neolithique de Menteşe. <span class="collection-title">Life and Death in a Prehistoric Settlement in Northwest Anatolia: The Ilıpınar Excavations, Volume III</span>, edited by Roodenberg, J. and Alpaslan-Roodenberg, S., pp. 435-448. Leiden and Istanbul: Nederlands Instituut in Turkije.</div>
+                            <div class="ref-end"/>
+                        </div>
+                    </div>
+                    <div class="ref-links">
+                        [<a rel="dcterms:isPartOf" href="http://www.worldcat.org/oclc/231718051">WorldCat</a>]
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    
+    <div id="eol-note">
+    <h4>Publication Note</h4>
+    <p>Open Context published this dataset as part of a larger data integration project involving participants in the Anatolia Zooarchaeology Working Group (led by Benjamin Arbuckle). The project "<a href="http://alexandriaarchive.org/projects/linked-data/">Biogeography of Early Domestic Animals using Linked Open Data</a>" was funded with a Computable Data Challenge <a href="http://eol.org/info/345">award</a> from the Encyclopedia of Life. The project published and integrated zooarchaeological data from 13 sites in Turkey, spanning the Epipaleolithic through the Bronze Age. Open Context editors made the integrated and published data in this study available for convenient mass-download in tabular (CSV) form via <a href="https://github.com/ekansa/opencontext-eol-zooarch">GitHub</a>. 
+    </p>
+    </div>
+
+
+</div>
+        </div>
+      </arch:string>
+    </arch:note>
+  </arch:notes>
+  <oc:metadata>
+    <dc:title>Faunal Data from Neolithic Menteşe: (Overview)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2014-05-12</dc:date>
+    <dc:subject>Animal Economy, Menteşe Höyük, Western Anatolia</dc:subject>
+    <dc:subject>Faunal data</dc:subject>
+    <dc:subject>Mammal Remains</dc:subject>
+    <dc:subject>Neolithic</dc:subject>
+    <dc:subject>Turkey</dc:subject>
+    <dc:subject>Western Anatolia</dc:subject>
+    <dc:subject>Zooarchaeology</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/36F86B2B-C13E-47C1-5F86-16A346F93A7E">Daniel Helmer</dc:creator>
+    <dc:creator href="http://opencontext.org/persons/6D6D8F4C-BDA7-404B-71DD-7E461F0227A1">Lionel Gourichon</dc:creator>
+    <dc:identifier>http://opencontext.org/projects/42EAD4DB-BAED-4A58-9B9B-7EC85266D2A9</dc:identifier>
+    <dc:identifier type="doi" href="http://dx.doi.org/10.6078/M7S46PVN">10.6078/M7S46PVN</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/42EAD4DB-BAED-4A58-9B9B-7EC85266D2A9">Faunal Data from Neolithic Menteşe</oc:project_name>
+    <oc:pub_date>2014-05-12T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Faunal+Data+from+Neolithic+Mente%C5%9Fe%3A+%28Overview%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Animal+Economy%2C+Mente%C5%9Fe+H%C3%B6y%C3%BCk%2C+Western+Anatolia&amp;rft.subject=Faunal+data&amp;rft.subject=Mammal+Remains&amp;rft.subject=Neolithic&amp;rft.subject=Turkey&amp;rft.subject=Western+Anatolia&amp;rft.subject=Zooarchaeology&amp;rft.creator=Daniel+Helmer&amp;rft.creator=Lionel+Gourichon&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fprojects%2F42EAD4DB-BAED-4A58-9B9B-7EC85266D2A9&amp;rft.identifier=DOI%3A10.6078%2FM7S46PVN</oc:coins>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+</arch:project>
